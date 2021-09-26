@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\samet\\.nuget\\packages\\": {}
+    "/Users/eray/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samet\\RiderProjects\\MvcWork\\MvcWork\\MvcWork.csproj",
+      "projectUniqueName": "/Users/eray/RiderProjects/MvcWork/MvcWork/MvcWork.csproj",
       "projectName": "MvcWork",
-      "projectPath": "C:\\Users\\samet\\RiderProjects\\MvcWork\\MvcWork\\MvcWork.csproj",
-      "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samet\\RiderProjects\\MvcWork\\MvcWork\\obj\\",
+      "projectPath": "/Users/eray/RiderProjects/MvcWork/MvcWork/MvcWork.csproj",
+      "packagesPath": "/Users/eray/.nuget/packages/",
+      "outputPath": "/Users/eray/RiderProjects/MvcWork/MvcWork/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/eray/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }
